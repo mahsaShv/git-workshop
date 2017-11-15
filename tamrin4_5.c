@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 int definePart1( int n , int i ){
 	int k;
 	for ( k = 1 ; k <= n ; k++ )
