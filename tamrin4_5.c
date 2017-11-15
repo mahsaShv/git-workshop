@@ -20,6 +20,7 @@ int definePart( int n , int i)
 		if( i <= partCounter ) return Counter;
 		Counter++;
 	}
+	//change miknm
 		
 	return 0;
 
